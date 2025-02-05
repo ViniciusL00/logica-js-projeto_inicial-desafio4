@@ -1,5 +1,5 @@
 # desafio4-logica-js-projeto_inicial
- Desafio 4 de logica de programção javascript!
+ **Desafio:** Lógica de programação em javascript!
 
 1- Crie um programa que utilize o console.log para exibir uma mensagem de boas-vindas.
 
